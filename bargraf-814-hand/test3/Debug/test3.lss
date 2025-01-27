@@ -1,0 +1,197 @@
+
+test3.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .data         00000000  00803e00  00803e00  00000142  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  1 .text         000000ee  00000000  00000000  00000054  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  2 .comment      00000030  00000000  00000000  00000142  2**0
+                  CONTENTS, READONLY
+  3 .note.gnu.avr.deviceinfo 0000003c  00000000  00000000  00000174  2**2
+                  CONTENTS, READONLY
+  4 .debug_aranges 00000028  00000000  00000000  000001b0  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  5 .debug_info   0000204e  00000000  00000000  000001d8  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  6 .debug_abbrev 000015de  00000000  00000000  00002226  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  7 .debug_line   0000033b  00000000  00000000  00003804  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_frame  00000044  00000000  00000000  00003b40  2**2
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_str    0000104d  00000000  00000000  00003b84  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_loc    00000084  00000000  00000000  00004bd1  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_ranges 00000018  00000000  00000000  00004c55  2**0
+                  CONTENTS, READONLY, DEBUGGING
+
+Disassembly of section .text:
+
+00000000 <__vectors>:
+   0:	19 c0       	rjmp	.+50     	; 0x34 <__ctors_end>
+   2:	20 c0       	rjmp	.+64     	; 0x44 <__bad_interrupt>
+   4:	1f c0       	rjmp	.+62     	; 0x44 <__bad_interrupt>
+   6:	1e c0       	rjmp	.+60     	; 0x44 <__bad_interrupt>
+   8:	1d c0       	rjmp	.+58     	; 0x44 <__bad_interrupt>
+   a:	1c c0       	rjmp	.+56     	; 0x44 <__bad_interrupt>
+   c:	1b c0       	rjmp	.+54     	; 0x44 <__bad_interrupt>
+   e:	1a c0       	rjmp	.+52     	; 0x44 <__bad_interrupt>
+  10:	5a c0       	rjmp	.+180    	; 0xc6 <__vector_8>
+  12:	18 c0       	rjmp	.+48     	; 0x44 <__bad_interrupt>
+  14:	17 c0       	rjmp	.+46     	; 0x44 <__bad_interrupt>
+  16:	16 c0       	rjmp	.+44     	; 0x44 <__bad_interrupt>
+  18:	15 c0       	rjmp	.+42     	; 0x44 <__bad_interrupt>
+  1a:	14 c0       	rjmp	.+40     	; 0x44 <__bad_interrupt>
+  1c:	13 c0       	rjmp	.+38     	; 0x44 <__bad_interrupt>
+  1e:	12 c0       	rjmp	.+36     	; 0x44 <__bad_interrupt>
+  20:	11 c0       	rjmp	.+34     	; 0x44 <__bad_interrupt>
+  22:	10 c0       	rjmp	.+32     	; 0x44 <__bad_interrupt>
+  24:	0f c0       	rjmp	.+30     	; 0x44 <__bad_interrupt>
+  26:	0e c0       	rjmp	.+28     	; 0x44 <__bad_interrupt>
+  28:	0d c0       	rjmp	.+26     	; 0x44 <__bad_interrupt>
+  2a:	0c c0       	rjmp	.+24     	; 0x44 <__bad_interrupt>
+  2c:	0b c0       	rjmp	.+22     	; 0x44 <__bad_interrupt>
+  2e:	0a c0       	rjmp	.+20     	; 0x44 <__bad_interrupt>
+  30:	09 c0       	rjmp	.+18     	; 0x44 <__bad_interrupt>
+  32:	08 c0       	rjmp	.+16     	; 0x44 <__bad_interrupt>
+
+00000034 <__ctors_end>:
+  34:	11 24       	eor	r1, r1
+  36:	1f be       	out	0x3f, r1	; 63
+  38:	cf ef       	ldi	r28, 0xFF	; 255
+  3a:	cd bf       	out	0x3d, r28	; 61
+  3c:	df e3       	ldi	r29, 0x3F	; 63
+  3e:	de bf       	out	0x3e, r29	; 62
+  40:	02 d0       	rcall	.+4      	; 0x46 <main>
+  42:	53 c0       	rjmp	.+166    	; 0xea <_exit>
+
+00000044 <__bad_interrupt>:
+  44:	dd cf       	rjmp	.-70     	; 0x0 <__vectors>
+
+00000046 <main>:
+#define PIP_port	PORTA
+#define PIP_bm		(1<<3)
+
+
+int main(void) {
+	_PROTECTED_WRITE(CLKCTRL.MCLKCTRLB, 0);				 // nedelit
+  46:	90 e0       	ldi	r25, 0x00	; 0
+  48:	88 ed       	ldi	r24, 0xD8	; 216
+  4a:	84 bf       	out	0x34, r24	; 52
+  4c:	90 93 61 00 	sts	0x0061, r25	; 0x800061 <__RODATA_PM_OFFSET__+0x7f8061>
+	
+	PORTA.DIR = 0b11111010;
+  50:	a0 e0       	ldi	r26, 0x00	; 0
+  52:	b4 e0       	ldi	r27, 0x04	; 4
+  54:	8a ef       	ldi	r24, 0xFA	; 250
+  56:	8c 93       	st	X, r24
+	PORTA_PIN0CTRL = PORT_PULLUPEN_bm;
+  58:	98 e0       	ldi	r25, 0x08	; 8
+  5a:	90 93 10 04 	sts	0x0410, r25	; 0x800410 <__RODATA_PM_OFFSET__+0x7f8410>
+	PORTB.DIR = 7;
+  5e:	87 e0       	ldi	r24, 0x07	; 7
+  60:	80 93 20 04 	sts	0x0420, r24	; 0x800420 <__RODATA_PM_OFFSET__+0x7f8420>
+	PORTB_PIN3CTRL = PORT_ISC_INTDISABLE_gc;
+  64:	10 92 33 04 	sts	0x0433, r1	; 0x800433 <__RODATA_PM_OFFSET__+0x7f8433>
+	
+	TCA0.SINGLE.CTRLA = TCA_SINGLE_CLKSEL_DIV1_gc;
+  68:	e0 e0       	ldi	r30, 0x00	; 0
+  6a:	fa e0       	ldi	r31, 0x0A	; 10
+  6c:	10 82       	st	Z, r1
+	TCA0.SINGLE.CTRLB = TCA_SINGLE_WGMODE_NORMAL_gc; // FRQ by bylo lepsi, ale nemame WO<3
+  6e:	11 82       	std	Z+1, r1	; 0x01
+	TCA0.SINGLE.INTCTRL = TCA_SINGLE_OVF_bm;
+  70:	81 e0       	ldi	r24, 0x01	; 1
+  72:	82 87       	std	Z+10, r24	; 0x0a
+	TCA0.SINGLE.PER = F_CPU / 3000UL;
+  74:	2a e0       	ldi	r18, 0x0A	; 10
+  76:	3a e1       	ldi	r19, 0x1A	; 26
+  78:	26 a3       	std	Z+38, r18	; 0x26
+  7a:	37 a3       	std	Z+39, r19	; 0x27
+	TCA0.SINGLE.INTFLAGS = TCA_SINGLE_OVF_bm;
+  7c:	83 87       	std	Z+11, r24	; 0x0b
+	TCA0.SINGLE.CTRLA |= TCA_SINGLE_ENABLE_bm;
+  7e:	80 81       	ld	r24, Z
+  80:	81 60       	ori	r24, 0x01	; 1
+  82:	80 83       	st	Z, r24
+	
+	PIP_port.OUTSET = PIP_bm;
+  84:	15 96       	adiw	r26, 0x05	; 5
+  86:	9c 93       	st	X, r25
+	
+	__asm("sei");
+  88:	78 94       	sei
+	
+    while (1) {
+		// blikat s LEDkama
+		PORTA.OUTTGL = 255-15;
+  8a:	80 ef       	ldi	r24, 0xF0	; 240
+  8c:	80 93 07 04 	sts	0x0407, r24	; 0x800407 <__RODATA_PM_OFFSET__+0x7f8407>
+		PORTB.OUTTGL = 7;
+  90:	87 e0       	ldi	r24, 0x07	; 7
+  92:	80 93 27 04 	sts	0x0427, r24	; 0x800427 <__RODATA_PM_OFFSET__+0x7f8427>
+	#else
+		//round up by default
+		__ticks_dc = (uint32_t)(ceil(fabs(__tmp)));
+	#endif
+
+	__builtin_avr_delay_cycles(__ticks_dc);
+  96:	87 ea       	ldi	r24, 0xA7	; 167
+  98:	91 e6       	ldi	r25, 0x61	; 97
+  9a:	01 97       	sbiw	r24, 0x01	; 1
+  9c:	f1 f7       	brne	.-4      	; 0x9a <__EEPROM_REGION_LENGTH__+0x1a>
+  9e:	00 c0       	rjmp	.+0      	; 0xa0 <__EEPROM_REGION_LENGTH__+0x20>
+  a0:	00 00       	nop
+		_delay_ms(5);
+
+		// plynule ladeni zvuku a konec az budou MHz
+		if (TCA0.SINGLE.PER>2) TCA0.SINGLE.PER--;
+  a2:	80 91 26 0a 	lds	r24, 0x0A26	; 0x800a26 <__RODATA_PM_OFFSET__+0x7f8a26>
+  a6:	90 91 27 0a 	lds	r25, 0x0A27	; 0x800a27 <__RODATA_PM_OFFSET__+0x7f8a27>
+  aa:	03 97       	sbiw	r24, 0x03	; 3
+  ac:	40 f0       	brcs	.+16     	; 0xbe <__EEPROM_REGION_LENGTH__+0x3e>
+  ae:	e0 e0       	ldi	r30, 0x00	; 0
+  b0:	fa e0       	ldi	r31, 0x0A	; 10
+  b2:	86 a1       	ldd	r24, Z+38	; 0x26
+  b4:	97 a1       	ldd	r25, Z+39	; 0x27
+  b6:	01 97       	sbiw	r24, 0x01	; 1
+  b8:	86 a3       	std	Z+38, r24	; 0x26
+  ba:	97 a3       	std	Z+39, r25	; 0x27
+  bc:	e6 cf       	rjmp	.-52     	; 0x8a <__EEPROM_REGION_LENGTH__+0xa>
+		else PIP_port.OUTCLR = PIP_bm;
+  be:	88 e0       	ldi	r24, 0x08	; 8
+  c0:	80 93 06 04 	sts	0x0406, r24	; 0x800406 <__RODATA_PM_OFFSET__+0x7f8406>
+  c4:	e2 cf       	rjmp	.-60     	; 0x8a <__EEPROM_REGION_LENGTH__+0xa>
+
+000000c6 <__vector_8>:
+    }
+}
+
+ISR (TCA0_OVF_vect) {
+  c6:	1f 92       	push	r1
+  c8:	0f 92       	push	r0
+  ca:	0f b6       	in	r0, 0x3f	; 63
+  cc:	0f 92       	push	r0
+  ce:	11 24       	eor	r1, r1
+  d0:	8f 93       	push	r24
+	PIP_port.DIRTGL = PIP_bm;
+  d2:	88 e0       	ldi	r24, 0x08	; 8
+  d4:	80 93 03 04 	sts	0x0403, r24	; 0x800403 <__RODATA_PM_OFFSET__+0x7f8403>
+	TCA0.SINGLE.INTFLAGS = TCA_SINGLE_OVF_bm;
+  d8:	81 e0       	ldi	r24, 0x01	; 1
+  da:	80 93 0b 0a 	sts	0x0A0B, r24	; 0x800a0b <__RODATA_PM_OFFSET__+0x7f8a0b>
+  de:	8f 91       	pop	r24
+  e0:	0f 90       	pop	r0
+  e2:	0f be       	out	0x3f, r0	; 63
+  e4:	0f 90       	pop	r0
+  e6:	1f 90       	pop	r1
+  e8:	18 95       	reti
+
+000000ea <_exit>:
+  ea:	f8 94       	cli
+
+000000ec <__stop_program>:
+  ec:	ff cf       	rjmp	.-2      	; 0xec <__stop_program>
