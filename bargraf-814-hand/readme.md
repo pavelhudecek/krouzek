@@ -1,2 +1,2 @@
-Kicad schéma + DPS
-https://www.kicad.org/download/windows/
+Projekt Microchip Studio
+
