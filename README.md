@@ -21,6 +21,6 @@ https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/
 
 
 Nebo si můžete do VScode nastavit nahrávání přes avrdude:
-    ttps://github.com/mariusgreuel/avrdude/releases 
+    https://github.com/mariusgreuel/avrdude/releases 
 
 ![image](https://github.com/user-attachments/assets/edf297ba-581b-477e-a602-b02e62ccad4a)
