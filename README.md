@@ -19,8 +19,9 @@ Ale je poněkud univerzálnější, takže je potřeba doinstalovat vhodné plug
 Na nahrávání programu bez Microchip Studia použijte např.:
 https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/
 
-
 Nebo si můžete do VScode nastavit nahrávání přes avrdude:
     https://github.com/mariusgreuel/avrdude/releases 
+
+Poznámka: Na kroužku to vypadalo, že z Microchip Studia nejde nahrávat program přes Xnano416 do ATtiny814, ale zdá se, že se jedná jen o větší citlivost na běžící repráček, nebo rychlý blikání. Jinak to normálně jde:-)
 
 ![image](https://github.com/user-attachments/assets/edf297ba-581b-477e-a602-b02e62ccad4a)
