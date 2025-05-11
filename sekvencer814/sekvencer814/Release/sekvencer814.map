@@ -1,0 +1,1014 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3.o)
+                              main.o (__subsf3)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3.o) (__addsf3x)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3.o)
+                              main.o (__divsf3)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3x.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3.o) (__divsf3x)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixsfsi.o)
+                              main.o (__fixsfsi)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixunssfsi.o)
+                              main.o (__fixunssfsi)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(floatsisf.o)
+                              main.o (__floatunsisf)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_inf.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o) (__fp_inf)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_nan.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o) (__fp_nan)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscA.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o) (__fp_pscA)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscB.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o) (__fp_pscB)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_round.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3.o) (__fp_round)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_split3.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o) (__fp_split3)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_zero.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o) (__fp_zero)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3.o)
+                              main.o (__mulsf3)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3x.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3.o) (__mulsf3x)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+                              main.o (__udivmodsi4)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+                              main.o (__divmodsi4)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o) (__negsi2)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o (exit)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+                              main.o (__umulhisi3)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+                              main.o (__muluhisi3)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+                              main.o (__mulshisi3)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_byte.o)
+                              main.o (eeprom_read_byte)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_word.o)
+                              main.o (eeprom_read_word)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_byte.o)
+                              main.o (eeprom_update_byte)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_word.o)
+                              main.o (eeprom_update_word)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_byte.o)
+                              main.o (eeprom_write_byte)
+C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_word.o)
+                              main.o (eeprom_write_word)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ .group         0x00000000        0xc main.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text._Z6outSethhhh
+                0x00000000       0x1a main.o
+ .avr.prop      0x00000000       0x16 main.o
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_round.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_round.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_word.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_word.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_word.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_word.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_word.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_word.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_word.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_word.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_word.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00803e00         0x00000200         rw!x
+eeprom           0x00810000         0x00000080         rw!x
+fuse             0x00820000         0x0000000a         rw!x
+lock             0x00830000         0x00000001         rw!x
+signature        0x00840000         0x00000003         rw!x
+user_signatures  0x00850000         0x00000020         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x803e00
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+LOAD main.o
+START GROUP
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+END GROUP
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+START GROUP
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libc.a
+LOAD C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a
+END GROUP
+                [0x00000000]                      __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00002000]                      __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00803e00]                      __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x00000200]                      __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000080]                      __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000a]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                [0x00000001]                      __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                [0x00000003]                      __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                [0x00000020]                      __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                        __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1a12
+ *(.vectors)
+ .vectors       0x00000000       0x34 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000034                        . = ALIGN (0x2)
+                0x00000034                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000034        0x0 linker stubs
+ *(.trampolines*)
+                0x00000034                        __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x00000034                        . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000034                        __ctors_start = .
+ *(.ctors)
+                0x00000034                        __ctors_end = .
+                0x00000034                        __dtors_start = .
+ *(.dtors)
+                0x00000034                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00000034        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+                0x00000034                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000034        0xc C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000040       0x16 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+                0x00000040                __do_copy_data
+ .init4         0x00000056       0x10 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+                0x00000056                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000066        0x4 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ *(.init9)
+ *(.text)
+ .text          0x0000006a        0x2 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+                0x0000006a                __vector_1
+                0x0000006a                __vector_24
+                0x0000006a                __vector_12
+                0x0000006a                __bad_interrupt
+                0x0000006a                __vector_6
+                0x0000006a                __vector_3
+                0x0000006a                __vector_23
+                0x0000006a                __vector_25
+                0x0000006a                __vector_11
+                0x0000006a                __vector_19
+                0x0000006a                __vector_7
+                0x0000006a                __vector_5
+                0x0000006a                __vector_4
+                0x0000006a                __vector_9
+                0x0000006a                __vector_2
+                0x0000006a                __vector_21
+                0x0000006a                __vector_15
+                0x0000006a                __vector_14
+                0x0000006a                __vector_10
+                0x0000006a                __vector_16
+                0x0000006a                __vector_18
+                0x0000006a                __vector_20
+                0x0000006c                        . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z8putchar2c
+                0x0000006c        0xe main.o
+                0x0000006c                putchar2(char)
+ .text._Z5printPc
+                0x0000007a       0x28 main.o
+                0x0000007a                print(char*)
+ .text._Z5printla
+                0x000000a2      0x13c main.o
+                0x000000a2                print(long, signed char)
+ .text._Z5printfh
+                0x000001de       0x56 main.o
+                0x000001de                print(float, unsigned char)
+ .text._Z10atomMsTestm
+                0x00000234       0x30 main.o
+                0x00000234                atomMsTest(unsigned long)
+ .text._Z7atomMs0v
+                0x00000264       0x16 main.o
+                0x00000264                atomMs0()
+ .text._Z3pipjj
+                0x0000027a       0x4a main.o
+                0x0000027a                pip(unsigned int, unsigned int)
+ .text._Z6outSeth
+                0x000002c4       0x30 main.o
+                0x000002c4                outSet(unsigned char)
+ .text.__vector_22
+                0x000002f4       0xaa main.o
+                0x000002f4                __vector_22
+ .text.__vector_8
+                0x0000039e        0xc main.o
+                0x0000039e                __vector_8
+ .text.__vector_13
+                0x000003aa       0xd6 main.o
+                0x000003aa                __vector_13
+ .text.__vector_17
+                0x00000480       0xb4 main.o
+                0x00000480                __vector_17
+ .text._Z8sendStatv
+                0x00000534       0x7e main.o
+                0x00000534                sendStat()
+ .text._Z10readBinTxthh
+                0x000005b2       0x5e main.o
+                0x000005b2                readBinTxt(unsigned char, unsigned char)
+ .text._Z10testCmdParPKch
+                0x00000610       0x3a main.o
+                0x00000610                testCmdPar(char const*, unsigned char)
+ .text._Z5readNIiET_hhS0_
+                0x0000064a       0x82 main.o
+                0x0000064a                int readN<int>(unsigned char, unsigned char, int)
+ .text._Z14usartRxMessagev
+                0x000006cc      0x6ba main.o
+                0x000006cc                usartRxMessage()
+ .text._Z5cekejmb
+                0x00000d86      0x2de main.o
+                0x00000d86                cekej(unsigned long, bool)
+ .text._Z3piph  0x00001064       0x2c main.o
+                0x00001064                pip(unsigned char)
+ .text._Z10progSelecth
+                0x00001090       0x22 main.o
+                0x00001090                progSelect(unsigned char)
+ .text.startup.main
+                0x000010b2      0x44c main.o
+                0x000010b2                main
+ .text.avr-libc.fplib
+                0x000014fe        0xa C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3.o)
+                0x000014fe                __subsf3
+                0x00001500                __addsf3
+ .text.avr-libc.fplib
+                0x00001508       0xc0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(addsf3x.o)
+                0x00001522                __addsf3x
+ .text.avr-libc.fplib
+                0x000015c8        0x4 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3.o)
+                0x000015c8                __divsf3
+ .text.avr-libc.fplib
+                0x000015cc       0xcc C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(divsf3x.o)
+                0x000015e2                __divsf3x
+                0x000015e6                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00001698        0xa C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixsfsi.o)
+                0x00001698                __fixsfsi
+ .text.avr-libc.fplib
+                0x000016a2       0x58 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fixunssfsi.o)
+                0x000016a2                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000016fa       0x7a C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(floatsisf.o)
+                0x000016fa                __floatunsisf
+                0x000016fe                __floatsisf
+ .text.avr-libc.fplib
+                0x00001774        0xc C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_inf.o)
+                0x00001774                __fp_inf
+ .text.avr-libc.fplib
+                0x00001780        0x6 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_nan.o)
+                0x00001780                __fp_nan
+ .text.avr-libc.fplib
+                0x00001786        0xe C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscA.o)
+                0x00001786                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001794        0xe C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_pscB.o)
+                0x00001794                __fp_pscB
+ .text.avr-libc.fplib
+                0x000017a2       0x22 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_round.o)
+                0x000017a2                __fp_round
+ .text.avr-libc.fplib
+                0x000017c4       0x44 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_split3.o)
+                0x000017c4                __fp_split3
+                0x000017d4                __fp_splitA
+ .text.avr-libc.fplib
+                0x00001808        0xe C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(fp_zero.o)
+                0x00001808                __fp_zero
+                0x0000180a                __fp_szero
+ .text.avr-libc.fplib
+                0x00001816        0x4 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3.o)
+                0x00001816                __mulsf3
+ .text.avr-libc.fplib
+                0x0000181a       0xc2 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libm.a(mulsf3x.o)
+                0x0000182e                __mulsf3x
+                0x00001832                __mulsf3_pse
+ .text.libgcc.div
+                0x000018dc       0x44 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+                0x000018dc                __udivmodsi4
+ .text.libgcc.div
+                0x00001920       0x28 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+                0x00001920                __divmodsi4
+ .text.libgcc.div
+                0x00001948       0x10 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+                0x00001948                __negsi2
+ .text.libgcc.mul
+                0x00001958       0x18 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+                0x00001958                __umulhisi3
+ .text.libgcc.mul
+                0x00001970       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+                0x00001970                __muluhisi3
+ .text.libgcc.mul
+                0x00001984        0xc C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+                0x00001984                __mulshisi3
+                0x00001988                __mulohisi3
+ .text.avr-libc
+                0x00001990       0x10 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_byte.o)
+                0x00001990                eeprom_read_byte
+                0x00001998                eeprom_mapen
+ .text.avr-libc
+                0x000019a0        0xa C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eerd_word.o)
+                0x000019a0                eeprom_read_word
+ .text.avr-libc
+                0x000019aa       0x16 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_byte.o)
+                0x000019aa                eeprom_update_byte
+                0x000019ac                eeprom_update_r18
+ .text.avr-libc
+                0x000019c0        0xc C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eeupd_word.o)
+                0x000019c0                eeprom_update_word
+ .text.avr-libc
+                0x000019cc       0x28 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_byte.o)
+                0x000019cc                eeprom_write_byte
+                0x000019ce                eeprom_write_r18
+ .text.avr-libc
+                0x000019f4        0xa C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls\libattiny814.a(eewr_word.o)
+                0x000019f4                eeprom_write_word
+                0x000019fe                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000019fe        0x0 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                0x000019fe                _exit
+                0x000019fe                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000019fe        0x4 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00001a02                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ .jumptables.gcc._Z14usartRxMessagev
+                0x00001a02       0x10 main.o
+                0x00001a12                        _etext = .
+
+.rodata         0x00009a12      0x275 load address 0x00001a12
+ *(.rodata)
+ .rodata        0x00009a12       0x10 main.o
+ *(.rodata*)
+ .rodata._Z5printla.str1.1
+                0x00009a22      0x263 main.o
+                                  0x3 (size before relaxing)
+ .rodata._Z8sendStatv.str1.1
+                0x00009c85       0x4a main.o
+ .rodata._Z14usartRxMessagev.str1.1
+                0x00009c85      0x1fe main.o
+ .rodata._Z5cekejmb.str1.1
+                0x00009c85       0x10 main.o
+ .rodata.main.str1.1
+                0x00009c85        0xc main.o
+ .rodata._ZL11ADC_chanTab
+                0x00009c85        0x2 main.o
+ *(.gnu.linkonce.r*)
+
+.data           0x00803e00       0x2e load address 0x00001c87
+                0x00803e00                        PROVIDE (__data_start = .)
+ *(.data)
+ *(.data*)
+ .data.usartRxMsgTout
+                0x00803e00        0x1 main.o
+                0x00803e00                usartRxMsgTout
+ .data.seqMode  0x00803e01        0x1 main.o
+                0x00803e01                seqMode
+ .data.autoMeas
+                0x00803e02        0x1 main.o
+                0x00803e02                autoMeas
+ .data.seqPredef
+                0x00803e03       0x28 main.o
+                0x00803e03                seqPredef
+ .data.krokCas  0x00803e2b        0x2 main.o
+                0x00803e2b                krokCas
+ *(.gnu.linkonce.d*)
+                0x00803e2e                        . = ALIGN (0x2)
+ *fill*         0x00803e2d        0x1 
+                0x00803e2e                        _edata = .
+                0x00803e2e                        PROVIDE (__data_end = .)
+
+.bss            0x00803e2e       0x61
+                0x00803e2e                        PROVIDE (__bss_start = .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZZ14usartRxMessagevE9setSeqAdr
+                0x00803e2e        0x1 main.o
+ .bss._ZZ14usartRxMessagevE7failCnt
+                0x00803e2f        0x3 main.o
+ .bss._ZZ11__vector_17E5cykly
+                0x00803e32        0x1 main.o
+ .bss._ZZ11__vector_17E5mxIdx
+                0x00803e33        0x1 main.o
+ .bss._ZZ11__vector_13E4sCnt
+                0x00803e34        0x2 main.o
+ .bss.usartRxMsgFail
+                0x00803e36        0x1 main.o
+                0x00803e36                usartRxMsgFail
+ .bss.usartRxMsgComplete
+                0x00803e37        0x1 main.o
+                0x00803e37                usartRxMsgComplete
+ .bss.usartRxBuffIend
+                0x00803e38        0x1 main.o
+                0x00803e38                usartRxBuffIend
+ .bss.usartRxBuff
+                0x00803e39       0x2c main.o
+                0x00803e39                usartRxBuff
+ .bss.pipCnt    0x00803e65        0x2 main.o
+                0x00803e65                pipCnt
+ .bss._ZZ5cekejmbE11tlacSemafor
+                0x00803e67        0x1 main.o
+ .bss._ZZ5cekejmbE8tlacLast
+                0x00803e68        0x1 main.o
+ .bss._ZZ5cekejmbE7tlacCnt
+                0x00803e69        0x1 main.o
+ .bss.revMode   0x00803e6a        0x1 main.o
+                0x00803e6a                revMode
+ .bss.adTest    0x00803e6b        0x8 main.o
+                0x00803e6b                adTest
+ .bss.adData    0x00803e73        0x8 main.o
+                0x00803e73                adData
+ .bss.adRawData
+                0x00803e7b        0x8 main.o
+                0x00803e7b                adRawData
+ .bss.progEepRestart
+                0x00803e83        0x1 main.o
+                0x00803e83                progEepRestart
+ .bss.progSelRestart
+                0x00803e84        0x1 main.o
+                0x00803e84                progSelRestart
+ .bss.skipCekani
+                0x00803e85        0x1 main.o
+                0x00803e85                skipCekani
+ .bss.progPrepnout
+                0x00803e86        0x1 main.o
+                0x00803e86                progPrepnout
+ .bss.tlacitka  0x00803e87        0x1 main.o
+                0x00803e87                tlacitka
+ .bss.adSync    0x00803e88        0x1 main.o
+                0x00803e88                adSync
+ .bss.sekSync   0x00803e89        0x1 main.o
+                0x00803e89                sekSync
+ .bss.msSync    0x00803e8a        0x1 main.o
+                0x00803e8a                msSync
+ .bss.ms        0x00803e8b        0x4 main.o
+                0x00803e8b                ms
+ *(COMMON)
+                0x00803e8f                        PROVIDE (__bss_end = .)
+                0x00001c87                        __data_load_start = LOADADDR (.data)
+                0x00001cb5                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00803e8f        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x00803e8f                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+                [!provide]                        PROVIDE (__flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0)
+                [!provide]                        PROVIDE (__flmap = DEFINED (__flmap)?__flmap:0x0)
+
+.eeprom         0x00810000       0x60
+ *(.eeprom*)
+ .eeprom        0x00810000       0x60 main.o
+                0x00810000                eSeqTimes
+                0x0081003c                eSeqVals
+                0x0081005a                eRevMode
+                0x0081005b                eSeqMode
+                0x0081005c                eAutoMeas
+                0x0081005d                eProgSel
+                0x0081005e                eKrokCas
+                0x00810060                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x12
+ *(.comment)
+ .comment       0x00000000       0x12 main.o
+                                 0x13 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x120
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000020       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x00000040       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .debug_aranges
+                0x00000060       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000080       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x000000a0       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x000000c0       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x000000e0       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000100       0x20 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x19b5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1871 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ .debug_info    0x00001871       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x00001895       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .debug_info    0x000018b9       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .debug_info    0x000018dd       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .debug_info    0x00001901       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .debug_info    0x00001925       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .debug_info    0x00001949       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .debug_info    0x0000196d       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .debug_info    0x00001991       0x24 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+
+.debug_abbrev   0x00000000     0x17d4
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x1720 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ .debug_abbrev  0x00001720       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00001734       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00001748       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .debug_abbrev  0x0000175c       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .debug_abbrev  0x00001770       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00001784       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00001798       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x000017ac       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x000017c0       0x14 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+
+.debug_line     0x00000000      0x500
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ .debug_line    0x0000001d      0x111 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x0000012e       0xbd C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .debug_line    0x000001eb       0x51 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .debug_line    0x0000023c       0x51 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .debug_line    0x0000028d       0x87 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .debug_line    0x00000314       0x75 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .debug_line    0x00000389       0x8d C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .debug_line    0x00000416       0x81 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .debug_line    0x00000497       0x69 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0xaaf
+ *(.debug_str)
+ .debug_str     0x00000000      0xa33 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/../../../../avr/lib/avrxmega3/short-calls/crtattiny814.o
+ .debug_str     0x00000a33       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .debug_str     0x00000aaf       0x7c C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x00000000       0x70
+ *(.debug_line_str)
+ .debug_line_str
+                0x00000000       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_udivmodsi4.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_divmodsi4.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_negsi2.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_umulhisi3.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_muluhisi3.o)
+ .debug_line_str
+                0x00000070       0x70 C:/Program Files (x86)/Atmel/GCC/avr-gcc-14.1.0-x64-windows/bin/../lib/gcc/avr/14.1.0/avrxmega3/short-calls\libgcc.a(_mulshisi3.o)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(sekvencer814.elf elf32-avr)
+LOAD linker stubs

@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\edison\Documents\kicad\8.0\projects\DDM\MCU pokusy\sekvencer-ATtiny814\sekvencer-ATtiny814.kicad_sch</source>
+    <date>2025-04-30T08:54:42+0200</date>
+    <tool>Eeschema 8.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>sekvencer-ATtiny814.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://www.tme.eu/cz/details/cl31a106kahnnne/kondenzatory-mlcc-smd-1206/samsung/</field>
+        <field name="price">1.31vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="link" value="https://www.tme.eu/cz/details/cl31a106kahnnne/kondenzatory-mlcc-smd-1206/samsung/"/>
+      <property name="price" value="1.31vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cb67c3c-fb47-4ee4-8913-c4d46ab8bdc7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10µ</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://www.tme.eu/cz/details/cl31a106kahnnne/kondenzatory-mlcc-smd-1206/samsung/</field>
+        <field name="price">1.31vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="link" value="https://www.tme.eu/cz/details/cl31a106kahnnne/kondenzatory-mlcc-smd-1206/samsung/"/>
+      <property name="price" value="1.31vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f25d88b5-c5ca-4250-93dc-75f990e5f929</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>R</value>
+      <footprint>_diskretni:LED1206-hand</footprint>
+      <fields>
+        <field name="price">2</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:LED1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="price" value="2"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064e0c423</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>R</value>
+      <footprint>_diskretni:LED1206-hand</footprint>
+      <fields>
+        <field name="price">2</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:LED1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="price" value="2"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c6e48ab-88d7-43b9-82b3-878637e09eb6</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>R</value>
+      <footprint>_diskretni:LED1206-hand</footprint>
+      <fields>
+        <field name="price">2</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:LED1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="price" value="2"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c4ae992-8f73-4efe-a1de-c13385c77708</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>R</value>
+      <footprint>_diskretni:LED1206-hand</footprint>
+      <fields>
+        <field name="price">2</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:LED1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="price" value="2"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f4d46ec-2b9c-4cdb-ba55-d18ad31a817f</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D-SMA</value>
+      <footprint>_diskretni:D-SMA-hand</footprint>
+      <datasheet>https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</datasheet>
+      <fields>
+        <field name="note">norm: K1-A2 / deMorgan: A1-K3 (SOT23)</field>
+        <field name="link">https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/</field>
+        <field name="price">1vm25</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:D-SMA-hand</field>
+        <field name="Datasheet">https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="D_std" description="Diode, small symbol"/>
+      <property name="note" value="norm: K1-A2 / deMorgan: A1-K3 (SOT23)"/>
+      <property name="link" value="https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/"/>
+      <property name="price" value="1vm25"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064e45d98</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D-SMA</value>
+      <footprint>_diskretni:D-SMA-hand</footprint>
+      <datasheet>https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</datasheet>
+      <fields>
+        <field name="note">norm: K1-A2 / deMorgan: A1-K3 (SOT23)</field>
+        <field name="link">https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/</field>
+        <field name="price">1vm25</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:D-SMA-hand</field>
+        <field name="Datasheet">https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="D_std" description="Diode, small symbol"/>
+      <property name="note" value="norm: K1-A2 / deMorgan: A1-K3 (SOT23)"/>
+      <property name="link" value="https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/"/>
+      <property name="price" value="1vm25"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>589393d3-144c-4b04-9be6-d80697d0a2e9</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D-SMA</value>
+      <footprint>_diskretni:D-SMA-hand</footprint>
+      <datasheet>https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</datasheet>
+      <fields>
+        <field name="note">norm: K1-A2 / deMorgan: A1-K3 (SOT23)</field>
+        <field name="link">https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/</field>
+        <field name="price">1vm25</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:D-SMA-hand</field>
+        <field name="Datasheet">https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="D_std" description="Diode, small symbol"/>
+      <property name="note" value="norm: K1-A2 / deMorgan: A1-K3 (SOT23)"/>
+      <property name="link" value="https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/"/>
+      <property name="price" value="1vm25"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26f7c460-f5a2-462d-8f3b-db91a84fe837</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D-SMA</value>
+      <footprint>_diskretni:D-SMA-hand</footprint>
+      <datasheet>https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</datasheet>
+      <fields>
+        <field name="note">norm: K1-A2 / deMorgan: A1-K3 (SOT23)</field>
+        <field name="link">https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/</field>
+        <field name="price">1vm25</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:D-SMA-hand</field>
+        <field name="Datasheet">https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="D_std" description="Diode, small symbol"/>
+      <property name="note" value="norm: K1-A2 / deMorgan: A1-K3 (SOT23)"/>
+      <property name="link" value="https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/"/>
+      <property name="price" value="1vm25"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>009e0c3d-e640-4703-858c-7ab240f9bbe4</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D-SMA</value>
+      <footprint>_diskretni:D-SMA-hand</footprint>
+      <datasheet>https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</datasheet>
+      <fields>
+        <field name="note">norm: K1-A2 / deMorgan: A1-K3 (SOT23)</field>
+        <field name="link">https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/</field>
+        <field name="price">1vm25</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_diskretni:D-SMA-hand</field>
+        <field name="Datasheet">https://www.tme.eu/Document/cf65989b4a3a37cb330d771971fbaf11/SS14-DC.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="D_std" description="Diode, small symbol"/>
+      <property name="note" value="norm: K1-A2 / deMorgan: A1-K3 (SOT23)"/>
+      <property name="link" value="https://www.tme.eu/cz/details/ss14-dc/diody-schottky-smd/dc-components/ss14/"/>
+      <property name="price" value="1vm25"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4e10b29-6bc6-477b-b64b-b2a5f2b18382</tstamps>
+    </comp>
+    <comp ref="IO1">
+      <value>ATtiny814</value>
+      <footprint>_io:SO14-hand</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf</datasheet>
+      <description>MCU AVR tiny</description>
+      <fields>
+        <field name="link">https://www.tme.eu/cz/details/attiny814-ssn/rodina-avr-8-bitu/microchip-technology/</field>
+        <field name="note">normal: 214/414 / alt: 814</field>
+        <field name="price">17.2vm25</field>
+        <field name="Footprint">_io:SO14-hand</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf</field>
+        <field name="Description">MCU AVR tiny</field>
+      </fields>
+      <libsource lib="_io" part="ATtiny414" description="MCU AVR tiny"/>
+      <property name="link" value="https://www.tme.eu/cz/details/attiny814-ssn/rodina-avr-8-bitu/microchip-technology/"/>
+      <property name="note" value="normal: 214/414 / alt: 814"/>
+      <property name="price" value="17.2vm25"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d766ed9b-fbde-4f7f-9bf2-2703bcca706e</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>dnp</value>
+      <footprint>_konektory:kon-1x2-s2x4+holes-pwr</footprint>
+      <fields>
+        <field name="link">l</field>
+        <field name="price"/>
+        <field name="Poznamka"/>
+        <field name="Footprint">_konektory:kon-1x2-s2x4+holes-pwr</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="link" value="l"/>
+      <property name="price" value=""/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0f52858-a9de-4703-9e0b-e693620d2198</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>ARK500-3</value>
+      <footprint>_konektory:ARK500-3</footprint>
+      <fields>
+        <field name="note">pwr</field>
+        <field name="Poznamka"/>
+        <field name="link">https://aliexpress.com/item/1005006642865467.html</field>
+        <field name="price">2.4vm50</field>
+        <field name="Footprint">_konektory:ARK500-3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="note" value="pwr"/>
+      <property name="Poznamka" value=""/>
+      <property name="link" value="https://aliexpress.com/item/1005006642865467.html"/>
+      <property name="price" value="2.4vm50"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67b18167-1449-4f89-a128-75dca04724e8</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>ARK500-3</value>
+      <footprint>_konektory:ARK500-3</footprint>
+      <fields>
+        <field name="note">pwr</field>
+        <field name="Poznamka"/>
+        <field name="link">https://aliexpress.com/item/1005006642865467.html</field>
+        <field name="price">2.4vm50</field>
+        <field name="Footprint">_konektory:ARK500-3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="note" value="pwr"/>
+      <property name="Poznamka" value=""/>
+      <property name="link" value="https://aliexpress.com/item/1005006642865467.html"/>
+      <property name="price" value="2.4vm50"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>550e36d2-20d8-4ced-9c70-c48ad23b73fe</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>dnp</value>
+      <footprint>_konektory:kon-1x4-D1-1,7</footprint>
+      <fields>
+        <field name="note">adc</field>
+        <field name="Poznamka"/>
+        <field name="price">5</field>
+        <field name="Footprint">_konektory:kon-1x4-D1-1,7</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="note" value="adc"/>
+      <property name="Poznamka" value=""/>
+      <property name="price" value="5"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f1df16f-3cdb-401a-a190-810e66730e91</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>dnp</value>
+      <footprint>_konektory:kon-1x4-D1-1,7</footprint>
+      <fields>
+        <field name="note">comm</field>
+        <field name="Poznamka"/>
+        <field name="price">5</field>
+        <field name="Footprint">_konektory:kon-1x4-D1-1,7</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="note" value="comm"/>
+      <property name="Poznamka" value=""/>
+      <property name="price" value="5"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>807ba67c-cea4-41f8-88ca-638907b5d98c</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>dnp</value>
+      <footprint>_konektory:kon-1x3_P2.54_Vertical</footprint>
+      <fields>
+        <field name="note">prg</field>
+        <field name="Poznamka"/>
+        <field name="price">3</field>
+        <field name="Footprint">_konektory:kon-1x3_P2.54_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="note" value="prg"/>
+      <property name="Poznamka" value=""/>
+      <property name="price" value="3"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5237282-c386-4a0d-89ce-24dbc1cec4fe</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>dnp</value>
+      <footprint>_mechanika:PTH-M3-7.5</footprint>
+      <description>mount hole</description>
+      <fields>
+        <field name="note">norm: prazdne (pad s dirou) / deMorgan: plne (pad bez diry)</field>
+        <field name="price">5</field>
+        <field name="Footprint">_mechanika:PTH-M3-7.5</field>
+        <field name="Datasheet"/>
+        <field name="Description">mount hole</field>
+      </fields>
+      <libsource lib="_konektory" part="Test1" description="test pin"/>
+      <property name="note" value="norm: prazdne (pad s dirou) / deMorgan: plne (pad bez diry)"/>
+      <property name="price" value="5"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe999806-da81-49ee-a442-8eca051d4e98</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>dnp</value>
+      <footprint>_mechanika:PTH-M3-7.5</footprint>
+      <description>mount hole</description>
+      <fields>
+        <field name="note">norm: prazdne (pad s dirou) / deMorgan: plne (pad bez diry)</field>
+        <field name="Footprint">_mechanika:PTH-M3-7.5</field>
+        <field name="Datasheet"/>
+        <field name="Description">mount hole</field>
+      </fields>
+      <libsource lib="_konektory" part="Test1" description="test pin"/>
+      <property name="note" value="norm: prazdne (pad s dirou) / deMorgan: plne (pad bez diry)"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9fcaf47-72b6-4e36-9447-48e8e2e92970</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>3k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064ebd1b6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>3k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de179b59-73f6-4e7f-8ac8-c152828ae7cc</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>3k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>620f23a9-829f-498f-a6ba-e6e287f9f3dd</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>3k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee98d492-5fbf-496a-9ba4-7a9b8730b8f7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100R</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>482ed792-5e1a-4876-85a2-589c746fab99</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>27k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1caa9c1-cd0e-4fa9-a329-fbf5fa3ba302</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>27k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006667d77f</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>3k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8de06356-dc70-49bd-b0b5-85923267d837</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>3k 1%</value>
+      <footprint>_pasivni:R_1206-hand</footprint>
+      <fields>
+        <field name="link">https://aliexpress.com/item/1005007040983533.html</field>
+        <field name="price">0.4vm100</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_pasivni:R_1206-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="link" value="https://aliexpress.com/item/1005007040983533.html"/>
+      <property name="price" value="0.4vm100"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e62887f-0dc7-4215-9af4-82593898a32a</tstamps>
+    </comp>
+    <comp ref="Sp1">
+      <value>repro</value>
+      <footprint>_ostatni:repro-D12-RM6.5-pol</footprint>
+      <datasheet>https://www.tme.eu/Document/ea79878f4d1471c304967384ab2ce8c4/ld-bzen-1212.pdf</datasheet>
+      <fields>
+        <field name="link">https://www.tme.eu/cz/details/ld-bzen-1212/elektromag-signalizatory-bez-generatoru/loudity/</field>
+        <field name="price">6.5vm3, 5.1vm20</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_ostatni:repro-D12-RM6.5-pol</field>
+        <field name="Datasheet">https://www.tme.eu/Document/ea79878f4d1471c304967384ab2ce8c4/ld-bzen-1212.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_ostatni" part="repro" description=""/>
+      <property name="link" value="https://www.tme.eu/cz/details/ld-bzen-1212/elektromag-signalizatory-bez-generatoru/loudity/"/>
+      <property name="price" value="6.5vm3, 5.1vm20"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064e43783</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>AO3406</value>
+      <footprint>_diskretni:SOT23-hand</footprint>
+      <datasheet>https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</datasheet>
+      <fields>
+        <field name="Poznamka">Normal sym: SOT23 / Alt. sym: DPAK</field>
+        <field name="link">https://aliexpress.com/item/1005006804114979.html</field>
+        <field name="price">0.53vm100</field>
+        <field name="Footprint">_diskretni:SOT23-hand</field>
+        <field name="Datasheet">https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="MOSFET-N" description=""/>
+      <property name="Poznamka" value="Normal sym: SOT23 / Alt. sym: DPAK"/>
+      <property name="link" value="https://aliexpress.com/item/1005006804114979.html"/>
+      <property name="price" value="0.53vm100"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6283d3a2-e381-48e3-a25e-6abdbf6ced24</tstamps>
+    </comp>
+    <comp ref="T2">
+      <value>AO3406</value>
+      <footprint>_diskretni:SOT23-hand</footprint>
+      <datasheet>https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</datasheet>
+      <fields>
+        <field name="Poznamka">Normal sym: SOT23 / Alt. sym: DPAK</field>
+        <field name="link">https://aliexpress.com/item/1005006804114979.html</field>
+        <field name="price">0.53vm100</field>
+        <field name="Footprint">_diskretni:SOT23-hand</field>
+        <field name="Datasheet">https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="MOSFET-N" description=""/>
+      <property name="Poznamka" value="Normal sym: SOT23 / Alt. sym: DPAK"/>
+      <property name="link" value="https://aliexpress.com/item/1005006804114979.html"/>
+      <property name="price" value="0.53vm100"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d92552d-a2e2-4c5d-b897-90b3385fe02a</tstamps>
+    </comp>
+    <comp ref="T3">
+      <value>AO3406</value>
+      <footprint>_diskretni:SOT23-hand</footprint>
+      <datasheet>https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</datasheet>
+      <fields>
+        <field name="Poznamka">Normal sym: SOT23 / Alt. sym: DPAK</field>
+        <field name="link">https://aliexpress.com/item/1005006804114979.html</field>
+        <field name="price">0.53vm100</field>
+        <field name="Footprint">_diskretni:SOT23-hand</field>
+        <field name="Datasheet">https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="MOSFET-N" description=""/>
+      <property name="Poznamka" value="Normal sym: SOT23 / Alt. sym: DPAK"/>
+      <property name="link" value="https://aliexpress.com/item/1005006804114979.html"/>
+      <property name="price" value="0.53vm100"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfdb0ffb-07b8-46f7-8cdf-f9e51e50e1b7</tstamps>
+    </comp>
+    <comp ref="T4">
+      <value>AO3406</value>
+      <footprint>_diskretni:SOT23-hand</footprint>
+      <datasheet>https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</datasheet>
+      <fields>
+        <field name="Poznamka">Normal sym: SOT23 / Alt. sym: DPAK</field>
+        <field name="link">https://aliexpress.com/item/1005006804114979.html</field>
+        <field name="price">0.53vm100</field>
+        <field name="Footprint">_diskretni:SOT23-hand</field>
+        <field name="Datasheet">https://www.aosmd.com/sites/default/files/res/datasheets/AO3406.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_diskretni" part="MOSFET-N" description=""/>
+      <property name="Poznamka" value="Normal sym: SOT23 / Alt. sym: DPAK"/>
+      <property name="link" value="https://aliexpress.com/item/1005006804114979.html"/>
+      <property name="price" value="0.53vm100"/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b246e71-f984-467c-8187-088653eeb39e</tstamps>
+    </comp>
+    <comp ref="Tl1">
+      <value>TACTM-34N-F</value>
+      <footprint>_ostatni:TD-03-hand</footprint>
+      <fields>
+        <field name="link">https://www.tme.eu/cz/details/tactm-34n-f/mikrospinace-tact/ninigi/</field>
+        <field name="price">3vm10</field>
+        <field name="note">Test2</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_ostatni:TD-03-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_ostatni" part="tlac2" description=""/>
+      <property name="link" value="https://www.tme.eu/cz/details/tactm-34n-f/mikrospinace-tact/ninigi/"/>
+      <property name="price" value="3vm10"/>
+      <property name="note" value="Test2"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a465697b-c91d-408c-b944-f0f3c50672ff</tstamps>
+    </comp>
+    <comp ref="Tl2">
+      <value>TACTM-34N-F</value>
+      <footprint>_ostatni:TD-03-hand</footprint>
+      <fields>
+        <field name="link">https://www.tme.eu/cz/details/tactm-34n-f/mikrospinace-tact/ninigi/</field>
+        <field name="price">3vm10</field>
+        <field name="note">Test2</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_ostatni:TD-03-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_ostatni" part="tlac2" description=""/>
+      <property name="link" value="https://www.tme.eu/cz/details/tactm-34n-f/mikrospinace-tact/ninigi/"/>
+      <property name="price" value="3vm10"/>
+      <property name="note" value="Test2"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>693ea8ec-ee24-434b-ba51-d5bd42de2c6d</tstamps>
+    </comp>
+    <comp ref="Tl3">
+      <value>TACTM-34N-F</value>
+      <footprint>_ostatni:TD-03-hand</footprint>
+      <fields>
+        <field name="link">https://www.tme.eu/cz/details/tactm-34n-f/mikrospinace-tact/ninigi/</field>
+        <field name="price">3vm10</field>
+        <field name="note">Test2</field>
+        <field name="Poznamka"/>
+        <field name="Footprint">_ostatni:TD-03-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="_ostatni" part="tlac2" description=""/>
+      <property name="link" value="https://www.tme.eu/cz/details/tactm-34n-f/mikrospinace-tact/ninigi/"/>
+      <property name="price" value="3vm10"/>
+      <property name="note" value="Test2"/>
+      <property name="Poznamka" value=""/>
+      <property name="Sheetname" value="Hlavní"/>
+      <property name="Sheetfile" value="sekvencer-ATtiny814.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2124850c-cda7-4557-9258-cf87e87508cb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="_diskretni" part="D_std">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_std</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Diode, small symbol</field>
+        <field name="note">norm: K1-A2 / deMorgan: A1-K3 (SOT23)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="_diskretni" part="MOSFET-N">
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">MOSFET-N</field>
+        <field name="Footprint">_diskretni:SOT23-hand</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="Poznamka">Normal sym: SOT23 / Alt. sym: DPAK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="_io" part="ATtiny414">
+      <description>MCU AVR tiny</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf</docs>
+      <fields>
+        <field name="Reference">IO</field>
+        <field name="Value">ATtiny414</field>
+        <field name="Footprint">_io:SO14</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf</field>
+        <field name="Description">MCU AVR tiny</field>
+        <field name="link">https://cz.farnell.com/microchip/attiny214-ssnr/mcu-8bit-20mhz-soic-14/dp/3131934?st=attiny214</field>
+        <field name="note">normal: 214/414 / alt: 814</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd" type="passive"/>
+        <pin num="2" name="A4/AD4/XDIRa/~{SS}/AWO4/DWOA/L0out" type="passive"/>
+        <pin num="3" name="A5/AD5/AC0out/AWO5/BWO/DWOB" type="passive"/>
+        <pin num="4" name="A6/AD6/AI0N/DAC" type="passive"/>
+        <pin num="5" name="A7/AD7/AI0P/L1out" type="passive"/>
+        <pin num="6" name="B3/TOSC1/RxD/AWO0a" type="passive"/>
+        <pin num="7" name="B2/TOSC2/EVO1/TxD/AWO2" type="passive"/>
+        <pin num="8" name="AWO1/SDA/XCK/AD10/B1" type="passive"/>
+        <pin num="9" name="AWO0/SCL/XDIR/AD11/B0" type="passive"/>
+        <pin num="10" name="L0i0/~{RES}/UPDI/A0" type="passive"/>
+        <pin num="11" name="L0i1/SDAa/MOSI/TxDa/AD1/BREAK/A1" type="passive"/>
+        <pin num="12" name="L0i2/SCLa/MISO/RxDa/AD2/EVO0/A2" type="passive"/>
+        <pin num="13" name="AWO3/SCK/XCKa/AD3/EXTclk/A3" type="passive"/>
+        <pin num="14" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="_konektory" part="Test1">
+      <description>test pin</description>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">Test1</field>
+        <field name="Footprint">_konektory:TP-D1-1,7</field>
+        <field name="Datasheet"/>
+        <field name="Description">test pin</field>
+        <field name="note">norm: prazdne (pad s dirou) / deMorgan: plne (pad bez diry)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="_ostatni" part="repro">
+      <docs>https://www.tme.eu/Document/ea79878f4d1471c304967384ab2ce8c4/ld-bzen-1212.pdf</docs>
+      <fields>
+        <field name="Reference">Sp</field>
+        <field name="Value">repro</field>
+        <field name="Footprint">_ostatni:repro-D12-RM6.5-pol</field>
+        <field name="Datasheet">https://www.tme.eu/Document/ea79878f4d1471c304967384ab2ce8c4/ld-bzen-1212.pdf</field>
+        <field name="Description"/>
+        <field name="link">https://www.tme.eu/cz/details/ld-bzen-1212/elektromag-signalizatory-bez-generatoru/loudity/</field>
+        <field name="price">6.5vm3, 5.1vm20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="p" type="passive"/>
+        <pin num="2" name="m" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="_ostatni" part="tlac2">
+      <fields>
+        <field name="Reference">Tl</field>
+        <field name="Value">tlac2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="_diskretni">
+      <uri>C:/Users/edison/Documents/kicad/8.0/symbols/_diskretni.kicad_sym</uri>
+    </library>
+    <library logical="_io">
+      <uri>C:/Users/edison/Documents/kicad/8.0/symbols/_io.kicad_sym</uri>
+    </library>
+    <library logical="_konektory">
+      <uri>C:/Users/edison/Documents/kicad/8.0/symbols/_konektory.kicad_sym</uri>
+    </library>
+    <library logical="_ostatni">
+      <uri>C:/Users/edison/Documents/kicad/8.0/symbols/_ostatni.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IO1" pin="1" pinfunction="Vdd" pintype="passive"/>
+      <node ref="K1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="K6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="2" name="/AD10">
+      <node ref="IO1" pin="8" pinfunction="AWO1/SDA/XCK/XY4/AD10/B1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/AD11">
+      <node ref="IO1" pin="9" pinfunction="AWO0/SCL/XDIR/XY5/AD11/B0" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/OUT0">
+      <node ref="IO1" pin="2" pinfunction="A4/AD4/XY0/XDIRa/~{SS}/AWO4/DWOA/L0out" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="T4" pin="1" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="5" name="/OUT1">
+      <node ref="IO1" pin="3" pinfunction="A5/AD5/XY1/AC0out/AWO5/BWO/DWOB" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="T3" pin="1" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="6" name="/OUT2">
+      <node ref="IO1" pin="4" pinfunction="A6/AD6/XY2/AI0N/DAC" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="T2" pin="1" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="7" name="/OUT3">
+      <node ref="IO1" pin="5" pinfunction="A7/AD7/XY3/AI0P/L1out" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="T1" pin="1" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="8" name="/PIP">
+      <node ref="IO1" pin="7" pinfunction="B2/TOSC2/EVO1/TxD/AWO2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/RxD">
+      <node ref="IO1" pin="12" pinfunction="L0i2/SCLa/MISO/RxDa/AD2/EVO0/A2" pintype="passive"/>
+      <node ref="K5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="10" name="/Tlac1">
+      <node ref="IO1" pin="6" pinfunction="B3/TOSC1/RxD/AWO0a" pintype="passive"/>
+      <node ref="Tl1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/Tlac2">
+      <node ref="IO1" pin="13" pinfunction="AWO3/SCK/XCKa/AD3/EXTclk/A3" pintype="passive"/>
+      <node ref="Tl2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/TxD">
+      <node ref="IO1" pin="11" pinfunction="L0i1/SDAa/MOSI/TxDa/AD1/BREAK/A1" pintype="passive"/>
+      <node ref="K5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="13" name="/UPDI+TL">
+      <node ref="IO1" pin="10" pinfunction="L0i0/~{RES}/UPDI/A0" pintype="passive"/>
+      <node ref="K6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Tl3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="GNDD">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IO1" pin="14" pinfunction="GND" pintype="passive"/>
+      <node ref="K1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M1" pin="1" pinfunction="TP" pintype="passive"/>
+      <node ref="M2" pin="1" pinfunction="TP" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="Sp1" pin="2" pinfunction="m" pintype="passive"/>
+      <node ref="T1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="T2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="T3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="T4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Tl1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Tl2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Tl3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="T1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D6-K)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="T2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="T3" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="T4" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(K4-Pin_2)">
+      <node ref="K4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(K4-Pin_4)">
+      <node ref="K4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Sp1-p)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="Sp1" pin="1" pinfunction="p" pintype="passive"/>
+    </net>
+  </nets>
+</export>
